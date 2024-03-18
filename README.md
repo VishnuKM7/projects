@@ -1,2 +1,3 @@
 # projects
-My lab where i play with what's inside my head
+The projects are categorized as p1 . p2 ... 
+Only the finished projects are documented.
